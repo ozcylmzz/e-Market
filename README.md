@@ -1,7 +1,8 @@
 # e-Market
 ## The project code is private and prepared for job interviews. Please contact yilmaz.ozcn@gmail.com for the project code
 
-
+![v1](https://github.com/n11iOS/yilmaz.ozcn/assets/34898893/1cb2a13f-73cc-4588-89ff-d99be86b9f38)
+![v2](https://github.com/n11iOS/yilmaz.ozcn/assets/34898893/fb694c8b-006a-445e-b7f6-76f4870c5ff3)
 
 ## **Kullanılan Kütüphaneler**
 ### **Alamofire:** HTTP isteklerini yapmak için kullanılmıştır.
